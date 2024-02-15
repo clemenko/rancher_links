@@ -1,7 +1,6 @@
 # Rancher Links
 
-## Publications and Articles
-| Name | Location |
+| Name | Publications and Articles |
 | ---- | -------- |
 | Have you STIG'd RKE2 yet? | https://intelligencecommunitynews.com/ic-insiders-have-you-stigd-your-kubernetes-yet |
 | Securing the Supply Chain with Carbide | https://intelligencecommunitynews.com/ic-insiders-can-i-get-chips-for-the-slsa-with-the-rancher-government-solutions-carbide |
@@ -13,9 +12,8 @@
 | Simple Install of the Rancher Stack | https://ranchergovernment.com/blog/article-simple-rke2-longhorn-and-rancher-install |
 | NeuVector Classification Banner Guide | https://ranchergovernment.com/blog/new-neuvector-classification-support |
 | Leveraging TLS Passthrough with Rancher RKE2 | https://ranchergovernment.com/blog/leveraging-rke2-with-tls-passthrough |
-
-## Videos and Tutorials
-| Name | Location |
+| ---- | -------- |
+| Name | Videos and Tutorials |
 | ---- | -------- |
 | Interclypse Tech Talk (For Developers) | https://youtu.be/UHOohKp0aZw |
 | Interclypse Tech Talk (For Infrastructure) | https://youtu.be/b-ZLC9khchg |
@@ -30,9 +28,8 @@
 | What is HobbyFarm | https://youtu.be/o5dJAjmou8s |
 | What is Hauler | https://youtu.be/LC5925eovwE |
 | NeuVector Federation | https://youtu.be/SthUj8TtesM |
-
-## Guides and Repositories
-| Name | Location |
+| ---- | -------- |
+| Name | Guides and Repositories |
 | ---- | -------- |
 | Rancher Government Hauler | https://github.com/rancherfederal/hauler |
 | Rancher Cluster Templates | https://github.com/rancherfederal/rancher-cluster-templates |
