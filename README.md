@@ -30,6 +30,7 @@
 | What is HobbyFarm | https://youtu.be/o5dJAjmou8s |
 | What is Hauler | https://youtu.be/LC5925eovwE |
 | NeuVector Federation | https://youtu.be/SthUj8TtesM |
+| Use Hauler to Air Gap the Rancher Stack| https://youtu.be/Wu6oWNZmVK4 |
 
 ## Guides and Repositories
 | Name | Location |
@@ -37,7 +38,7 @@
 | Rancher Government Hauler | https://github.com/rancherfederal/hauler |
 | Rancher Cluster Templates | https://github.com/rancherfederal/rancher-cluster-templates |
 | NSG Workshop | https://github.com/clemenko/hobbyfarm/tree/main/nsg-workshop/content|
-| Airgapping the Rancher Stack in 20 Minutes | https://github.com/clemenko/rke_airgap_install |
+| Use Hauler to Air Gap the Rancher Stack | https://github.com/clemenko/rke_airgap_install |
 | Have you STIG'd RKE2 yet? | https://github.com/clemenko/rancher_stig |
 | Encryption at Rest with Rancher Longhorn | https://github.com/clemenko/longhorn_encrypt |
 | Simple Install of the Rancher Stack | https://github.com/clemenko/rke_install_blog |
