@@ -31,6 +31,7 @@
 | What is Hauler | https://youtu.be/LC5925eovwE |
 | NeuVector Federation | https://youtu.be/SthUj8TtesM |
 | Use Hauler to Air Gap the Rancher Stack| https://youtu.be/Wu6oWNZmVK4 |
+| RKE2 High Availability Explained | https://youtu.be/Um_GVIL71xQ |
 
 ## Guides and Repositories
 | Name | Location |
