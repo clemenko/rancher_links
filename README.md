@@ -17,6 +17,8 @@
 ## Videos and Tutorials
 | Name | Location |
 | ---- | -------- |
+| Harvester Workshop | https://github.com/clemenko/harvester_workshop |
+| Rancher/RKE2/Longhorn/NeuVector Workshop | https://github.com/clemenko/hobbyfarm/tree/main/nsg-workshop/content |
 | Interclypse Tech Talk (For Developers) | https://youtu.be/UHOohKp0aZw |
 | Interclypse Tech Talk (For Infrastructure) | https://youtu.be/b-ZLC9khchg |
 | PlexiCluster - Rancher and Harvester at the Edge | https://youtu.be/NopZUT2eFbA |
@@ -24,7 +26,6 @@
 | Simple Install of the Rancher Stack | https://youtu.be/oM-6sd4KSmA |
 | Can a 12 y/o install the Rancher Stack? | https://youtu.be/_70Z5-4lvEo |
 | MaxPower - Rancher, Harvester, and GPUs at the Edge | https://youtu.be/Qdc_HKXacyM |
-| NSG Workshop | https://github.com/clemenko/hobbyfarm/tree/main/nsg-workshop/content |
 | RKE2 and Multus Deployment | https://youtu.be/GHC4FwgTpe0 |
 | Rancher Workshop | https://youtu.be/jU_w2GWQwxI |
 | What is HobbyFarm? | https://youtu.be/o5dJAjmou8s |
