@@ -18,7 +18,7 @@
 | Name | Location |
 | ---- | -------- |
 | Harvester Workshop | https://github.com/clemenko/harvester_workshop |
-| Rancher/RKE2/Longhorn/NeuVector Workshop | https://github.com/clemenko/hobbyfarm/tree/main/nsg-workshop/content |
+| Rancher/RKE2/Longhorn/NeuVector Workshop | https://github.com/clemenko/hobbyfarm/ |
 | Interclypse Tech Talk (For Developers) | https://youtu.be/UHOohKp0aZw |
 | Interclypse Tech Talk (For Infrastructure) | https://youtu.be/b-ZLC9khchg |
 | PlexiCluster - Rancher and Harvester at the Edge | https://youtu.be/NopZUT2eFbA |
