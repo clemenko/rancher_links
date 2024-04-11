@@ -41,7 +41,8 @@
 | ---- | -------- |
 | Rancher Government Hauler | https://github.com/rancherfederal/hauler |
 | Rancher Cluster Templates | https://github.com/rancherfederal/rancher-cluster-templates |
-| NSG Workshop | https://github.com/clemenko/hobbyfarm/tree/main/nsg-workshop/content|
+| Rancher Stack Workshop | https://github.com/clemenko/hobbyfarm/|
+| Harvester Workshop | https://github.com/clemenko/harvester_workshop |
 | Use Hauler to Air Gap the Rancher Stack | https://github.com/clemenko/rke_airgap_install |
 | Have you STIG'd RKE2 yet? | https://github.com/clemenko/rancher_stig |
 | Encryption at Rest with Rancher Longhorn | https://github.com/clemenko/longhorn_encrypt |
