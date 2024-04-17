@@ -54,3 +54,4 @@
 | Rancher Fleet Push Button Demo | https://github.com/clemenko/catalog_demo |
 | RKE2 and Multus Deployment | https://gist.github.com/clemenko/18061e6b040cd2baffac11140c0c0680 |
 | RKE2 and Kube Vip Deployment | https://gist.github.com/zackbradys/a7da049f11ca93e86e024952113281be |
+| Latest Versions | https://dzver.rfed.io |
