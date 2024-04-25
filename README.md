@@ -17,7 +17,7 @@
 | Rancher Stack Reference Architecture | https://github.com/clemenko/rancher-ref-arch |
 | Rancher Fleet Push Button Demo | https://github.com/clemenko/catalog_demo |
 | RKE2 and Multus Deployment | https://gist.github.com/clemenko/18061e6b040cd2baffac11140c0c0680 |
-| Latest Versions | https://dzver.rfed.io |
+| Latest Rancher Versions | https://dzver.rfed.io |
 
 ## Videos and Tutorials
 | Name | Location |
