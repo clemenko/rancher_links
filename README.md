@@ -22,6 +22,7 @@
 ## Videos and Tutorials
 | Name | Location |
 | ---- | -------- |
+| Can a "Noob" install Rke2 / Rancher / Longhorn? |https://youtu.be/Gr08LhMQVoE |
 | Harvester Workshop | https://github.com/clemenko/harvester_workshop |
 | Rancher/RKE2/Longhorn/NeuVector Workshop | https://github.com/clemenko/hobbyfarm/ |
 | Interclypse Tech Talk (For Developers) | https://youtu.be/UHOohKp0aZw |
