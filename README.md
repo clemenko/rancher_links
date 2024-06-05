@@ -9,6 +9,7 @@ https://andyc.info/tube
 
 | Name | Location |
 | ---- | -------- |
+| Step-by-Step Guide to Creating a NVIDIA Ollama AI Deployment on Harvester | https://youtu.be/RgW_uB6dOJ0 |
 | Harvester and Rancher Integration Tips for Beginners | https://youtu.be/GPXkoi6ueVA |
 | Can a "Noob" install Rke2 / Rancher / Longhorn? |https://youtu.be/Gr08LhMQVoE |
 | Harvester Workshop | https://github.com/clemenko/harvester_workshop |
