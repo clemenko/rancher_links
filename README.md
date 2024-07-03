@@ -9,6 +9,7 @@ https://andyc.info/tube
 
 | Name | Location |
 | ---- | -------- |
+| Rancher Multi-Cluster Manager Can Manage All Your Kuberentes | https://youtu.be/L7TSawtl97w | 
 | Step-by-Step Guide to Creating a NVIDIA Ollama AI Deployment on Harvester | https://youtu.be/RgW_uB6dOJ0 |
 | Harvester and Rancher Integration Tips for Beginners | https://youtu.be/GPXkoi6ueVA |
 | Can a "Noob" install Rke2 / Rancher / Longhorn? |https://youtu.be/Gr08LhMQVoE |
