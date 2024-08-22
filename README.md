@@ -9,6 +9,7 @@ https://andyc.info/tube
 
 | Name | Location |
 | ---- | -------- |
+| Easy Certificate Configs for Rancher | https://youtu.be/39fdq5xx3bQ |
 | Opensource is not dead, it's broke! | https://youtu.be/mInqIiQH77U |
 | Rancher Multi-Cluster Manager Can Manage All Your Kuberentes | https://youtu.be/L7TSawtl97w | 
 | Step-by-Step Guide to Creating a NVIDIA Ollama AI Deployment on Harvester | https://youtu.be/RgW_uB6dOJ0 |
