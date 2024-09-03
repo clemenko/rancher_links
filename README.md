@@ -7,8 +7,8 @@ clemenko@gmail.com / andy.clemenko@ranchergovernment.com
 
 https://andyc.info/tube
 
-| Name | Location |
 | ---- | -------- |
+| Simple RKE2, Longhorn, NeuVector and Rancher Install - Updated for 2024 |https://youtu.be/ONes6pv_9J4 |
 | Easy Certificate Configs for Rancher | https://youtu.be/39fdq5xx3bQ |
 | Opensource is not dead, it's broke! | https://youtu.be/mInqIiQH77U |
 | Rancher Multi-Cluster Manager Can Manage All Your Kuberentes | https://youtu.be/L7TSawtl97w | 
@@ -35,7 +35,6 @@ https://andyc.info/tube
 | Why you need ipxe netboot.xyz in your lab | https://youtu.be/BGDiaouqSSg |
 
 ## Guides and Repositories
-| Name | Location |
 | ---- | -------- |
 | Rancher Government Hauler | https://github.com/rancherfederal/hauler |
 | Rancher Cluster Templates | https://github.com/rancherfederal/rancher-cluster-templates |
@@ -54,7 +53,6 @@ https://andyc.info/tube
 | Latest Rancher Versions | https://dzver.rfed.io |
 
 ## Publications and Articles
-| Name | Publications and Articles |
 | ---- | -------- |
 | Have you STIG'd RKE2 yet? | https://intelligencecommunitynews.com/ic-insiders-have-you-stigd-your-kubernetes-yet |
 | Securing the Supply Chain with Carbide | https://intelligencecommunitynews.com/ic-insiders-can-i-get-chips-for-the-slsa-with-the-rancher-government-solutions-carbide |
