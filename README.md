@@ -39,6 +39,8 @@ https://andyc.info/tube
 
 | Name | Link |
 | ---- | -------- |
+| Simple Install RKE2, Rancher, Longhorn, NeuVector | https://github.com/clemenko/rke_install_blog |
+| Air Gap all the things with Hauler | https://github.com/clemenko/rke_airgap_install |
 | Rancher Government Hauler | https://github.com/rancherfederal/hauler |
 | Rancher Cluster Templates | https://github.com/rancherfederal/rancher-cluster-templates |
 | Rancher Stack Workshop | https://github.com/clemenko/hobbyfarm/|
