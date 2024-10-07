@@ -1,7 +1,7 @@
 # Rancher Stuff
 
 ## Reach out
-clemenko@gmail.com / andy.clemenko@ranchergovernment.com
+clemenko@gmail.com
 
 ## Videos and Tutorials
 
