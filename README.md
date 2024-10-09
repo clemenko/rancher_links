@@ -1,4 +1,4 @@
-# Rancher Stuff
+# Clemenko Stuff
 
 ## Reach out
 clemenko@gmail.com
@@ -9,6 +9,7 @@ https://andyc.info/tube
 
 | Name | Link |
 | ---- | -------- |
+| Why Coder (CDE) is the Ultimate VDI Alternative for Developers on Kubernetes | https://youtu.be/PaOrI24_WYM | 
 | 5 Ways to Install Applications on Kubernetes, Rancher and RKE2 | https://youtu.be/ZqfMzxj98XI | 
 | Simple RKE2, Longhorn, NeuVector and Rancher Install - Updated for 2024 |https://youtu.be/ONes6pv_9J4 |
 | Easy Certificate Configs for Rancher | https://youtu.be/39fdq5xx3bQ |
