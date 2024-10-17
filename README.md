@@ -5,7 +5,7 @@ clemenko@gmail.com
 
 ## Videos and Tutorials
 
-https://andyc.info/tube
+https://andyc.info/tubes
 
 | Name | Link |
 | ---- | -------- |
