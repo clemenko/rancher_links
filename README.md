@@ -9,6 +9,7 @@ https://andyc.info/tube
 
 | Name | Link |
 | ---- | -------- |
+| Easy Guide to Exposing a Kubernetes Service with Tailscale | https://youtu.be/INdZOBnUBl4 |
 | Why Coder (CDE) is the Ultimate VDI Alternative for Developers on Kubernetes | https://youtu.be/PaOrI24_WYM | 
 | 5 Ways to Install Applications on Kubernetes, Rancher and RKE2 | https://youtu.be/ZqfMzxj98XI | 
 | Simple RKE2, Longhorn, NeuVector and Rancher Install - Updated for 2024 |https://youtu.be/ONes6pv_9J4 |
