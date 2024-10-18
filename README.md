@@ -9,6 +9,7 @@ https://andyc.info/tubes
 
 | Name | Link |
 | ---- | -------- |
+| Coder, Tailscale, and Kubernetes make the best PRIVATE portable dev environment ever!| https://youtu.be/kw9HOmzBYbw | 
 | Easy Guide to Exposing a Kubernetes Service with Tailscale | https://youtu.be/INdZOBnUBl4 |
 | Why Coder (CDE) is the Ultimate VDI Alternative for Developers on Kubernetes | https://youtu.be/PaOrI24_WYM | 
 | 5 Ways to Install Applications on Kubernetes, Rancher and RKE2 | https://youtu.be/ZqfMzxj98XI | 
